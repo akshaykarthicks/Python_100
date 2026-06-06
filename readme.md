@@ -30,6 +30,8 @@ python day16.py
 - [Official Python Documentation](https://docs.python.org/3/)
 - [Python Tutorial](https://docs.python.org/3/tutorial/)
 - [Real Python](https://realpython.com/)
+- [turtle-docu](https://docs.python.org/3/library/turtle.html)
+- [python-lib](https://pypi.org/project/prettytable/)
 
 ## Topics Covered
 
